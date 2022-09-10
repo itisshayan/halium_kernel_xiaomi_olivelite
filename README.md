@@ -1,1 +1,1 @@
-# halium_kernel_xiaomi_olivelite
+# Halium Patched Kernel Source for Xiaomi Redmi 8 Series 
